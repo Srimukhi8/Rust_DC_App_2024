@@ -106,22 +106,6 @@ More detailed use-cases for the `Frac` struct are also included in the tests.
 - [`src/tests.rs`](src/tests.rs): contains the tests for the basic functionality of the `Frac` struct.  
 - [`src/tests_bonus.rs`](src/tests_bonus.rs): contains the tests for the bonus functionality of the `Frac` struct.
 
-## Setting up the environment
-
-You can follow these steps to set up the environment:
-
-1. Make sure you have installed **rust**, **cargo** and **git** on your system.
-2. Make a **Private Fork** of this repository by clicking on the fork button on the top right corner of this page. 
-3. Clone the repository to your local system by running the following command. Replace `<your-username>` with your GitHub username and `<your-fork-name>` with the name of your fork.
-    ```bash
-    git clone https://www.github.com/<your-username>/<your-fork-name>
-    ```
-4. Move into the `Q2` directory by running the following command:
-    ```bash
-    cd Q2
-    ```
-
-Now, you are in the root directory of the project and you can start working on the task.
 
 ### Running the tests
 
