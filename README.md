@@ -1,6 +1,12 @@
 # Software Dev (RUST) Application 2024
 
 ## Why Rust?
+Developer surveys show that Rust is one of the top 12 programming languages heavily used in the IT industry. According to survey data, 10–13% of software developers work with Rust regularly.
+
+Developer appreciation for Rust is also unbeatable. How do we know that? Well, the StackOverflow Developer Survey provides amazing proof:
+
+- Rust continues to be the most admired language in the developer community, and has been for many years in a row (eight years? nine years? No one remembers!).
+- Those already working with Rust don’t want to switch to other programming languages.
 
 
 ## General Instructions
@@ -16,8 +22,19 @@ The other 2 folders contain instructions and starting code for the respective Qu
 You should also submit the completed learning tasks, but they won't be considered for scoring.
 You can use the [**Rust Playground**](https://play.rust-lang.org/) to run your code online. While this is sufficient for the learning tasks, you will need to setup Rust on your laptop for Q1 and Q2. 
 
-## Setting up Rust
+## Setup
 
+Before diving into Rust, set up your development environment:
+
+### Linux or MacOS
+
+```bash
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+
+### Windows
+
+Download and run [rustup-init.exe](https://static.rust-lang.org/rustup/dist/i686-pc-windows-gnu/rustup-init.exe)
 
 ## Setting up the environment
 
