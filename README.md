@@ -66,10 +66,12 @@ You can follow these steps to set up the environment:
    back to you within a a few days
 
 ## What can you expect during your tenure as a DC?
-
-
+- Exciting projects, and a great learning experience in software development, and Rust in particular.  
+- Gaining expertise and knowledge about the intricacies of devevlopment in Rust
+- and more!
 
 
 
 In case of any doubts, feel free to reach out to:
 
+For Q1 and the minitask: Advik Kabra, advik@smail.iitm.ac.in
