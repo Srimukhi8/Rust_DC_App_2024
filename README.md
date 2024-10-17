@@ -75,3 +75,4 @@ You can follow these steps to set up the environment:
 In case of any doubts, feel free to reach out to:
 
 For Q1 and the minitask: Advik Kabra, advik@smail.iitm.ac.in
+For Q2: Anton, me23b015@smail.iitm.ac.in
